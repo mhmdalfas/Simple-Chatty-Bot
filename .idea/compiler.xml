@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-java.main" target="15" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main" target="15" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.main" target="15" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-reports-tests.main" target="15" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.main" target="15" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.main" target="15" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Desks.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-First_digit.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Reversing.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Theory.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Groundhogs_at_a_party.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Is_between.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Possible_values_of_a_variable.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Theory.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Guest_list_of_a_hotel.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Print_strings_in_the_reverse_order.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Reading_a_number.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Reading_a_single_word.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Theory.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-String-Check_prefix_ignoring_the_case.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-String-Theory.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-Grades.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-Statements.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-Theory.main" target="15" />
+      <module name="Simple_Chatty_Bot.util.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
